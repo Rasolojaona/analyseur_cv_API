@@ -1,0 +1,13 @@
+fastapi 
+uvicorn 
+python-dotenv 
+groq 
+langchain 
+pydantic
+pymupdf
+frontend
+langchain_groq
+docx2txt 
+spacy
+python-multipart
+tools
