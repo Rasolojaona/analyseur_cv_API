@@ -111,15 +111,8 @@ Documentation interactive :
 ### Endpoint disponible
 
 ```
-POST /analyze-cv
+POST /analyze_cv
 ```
-
-```
-
----
-
-
----
 
 ## 💡 À venir
 
